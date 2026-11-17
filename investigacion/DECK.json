@@ -1,0 +1,155 @@
+{
+ "fecha": "2026-11-13",
+ "titular": "Deckers rinde casi 9% de caja libre, no tiene deuda y recompra acciones, pero sus marcas se frenan. Al costo de capital de consumo discrecional (9.9%) mantiene un descuento, más chico que antes.",
+ "hechos": [
+  {
+   "titulo": "Segundo trimestre fiscal 2027: crecimiento lento y venta directa en baja",
+   "verificado": true,
+   "texto": "Ventas de $1,481 millones (+3.5%). HOKA creció 6.8% y UGG 3.5%. La venta directa comparable cayó 6.4% y las ventas en EE.UU. bajaron 0.4%; el crecimiento vino del exterior (+9%). La utilidad por acción de $2.31 incluye $0.28 de reembolsos de aranceles. Recompró $299 millones en el trimestre y $637 millones en el semestre.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 22 oct 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000028/deckex991pressrelease-9302.htm"
+   }
+  },
+  {
+   "titulo": "Guía del año fiscal (a marzo de 2027)",
+   "verificado": true,
+   "texto": "Ventas esperadas de $5,700 a $5,725 millones, cerca de 4% sobre el año anterior: HOKA crecería un dígito alto y UGG un dígito bajo. Utilidad por acción de $7.80 a $7.95, que incluye unos $0.52 de reembolsos de aranceles que no se repetirán.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 22 oct 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000028/deckex991pressrelease-9302.htm"
+   }
+  },
+  {
+   "titulo": "Reacción del mercado y de los analistas",
+   "verificado": false,
+   "texto": "Según la prensa, la guía de ventas fue recortada y la acción cayó cerca de 8% tras el informe, a la zona de su mínimo de 52 semanas. Piper Sandler rebajó a Infraponderar y varios bancos recortaron sus objetivos.",
+   "fuente": {
+    "nombre": "FinChannel: Deckers recorta su previsión",
+    "url": "https://finchannel.com/deckers-cuts-sales-outlook-as-hoka-and-ugg-growth-slows/139155/american-business-trends/2026/10/"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "El CEO es Stefano Caroti. La gerencia prioriza control de gastos y recompras mientras el crecimiento se frena.",
+  "puntos": [
+   "Ventas de insiders muy bajas en 12 meses ($1.0 M en total) y ninguna compra.",
+   "Las recompras del semestre ($637 M) equivalen a cerca de 5.5% de la capitalización."
+  ]
+ },
+ "consenso": {
+  "texto": "Los analistas están divididos: los objetivos van de $70 a $137, con varios por debajo del precio.",
+  "filas": [
+   {
+    "fuente": "UBS",
+    "objetivo": 137,
+    "detalle": "Compra",
+    "url": "https://www.barchart.com/story/news/32601228/deckers-outdoor-stock-analyst-estimates-ratings"
+   },
+   {
+    "fuente": "Barclays",
+    "objetivo": 100,
+    "detalle": "Sobreponderar; antes $133",
+    "url": "https://www.barchart.com/story/news/32601228/deckers-outdoor-stock-analyst-estimates-ratings"
+   },
+   {
+    "fuente": "Truist",
+    "objetivo": 95,
+    "detalle": "Antes $105",
+    "url": "https://finance.yahoo.com/news/truist-securities-raises-deckers-outdoor-193226213.html"
+   },
+   {
+    "fuente": "Wells Fargo",
+    "objetivo": 70,
+    "detalle": "Infraponderar; antes $85",
+    "url": "https://www.barchart.com/story/news/32601228/deckers-outdoor-stock-analyst-estimates-ratings"
+   },
+   {
+    "fuente": "BMO Capital",
+    "objetivo": 70,
+    "detalle": "Bajo rendimiento",
+    "url": "https://www.investing.com/news/analyst-ratings/bmo-capital-maintains-deckers-stock-underperform-on-hoka-ugg-concerns-93CH-4971817"
+   }
+  ],
+  "cambios": [
+   "Piper Sandler rebajó a Infraponderar después de los resultados de octubre."
+  ]
+ },
+ "por_que_barata": "HOKA, que impulsó el crecimiento de los últimos años, se está frenando, y la venta directa al consumidor cae. Los inversionistas temen que la marca haya pasado su mejor momento y que el calzado en EE.UU. entre en una etapa de promociones y aranceles.",
+ "catalizadores": [
+  "Temporada de fin de año de UGG, que se verá en los resultados de fines de enero o inicios de febrero.",
+  "Que la venta directa comparable deje de caer.",
+  "Recompras continuas con caja neta de $1,200 millones."
+ ],
+ "riesgos": [
+  "Las marcas de moda pueden perder relevancia rápido, y entonces la caja cae más de lo que supone cualquier modelo.",
+  "Aranceles a calzado importado.",
+  "Promociones y descuentos en el mercado de EE.UU.",
+  "El escenario base automático ($224) asume 11% de crecimiento anual: con la guía actual no es creíble."
+ ],
+ "conclusion": {
+  "postura": "Descuento moderado; depende de que las marcas se sostengan",
+  "texto": "A $85.91, Deckers cotiza a 11 veces utilidades, rinde 8.7% de caja libre y tiene caja neta. Descontada al 9.9%, el costo de capital del sector, el precio implica que su caja caiga 3.5% al año durante cinco años. Si en cambio creciera 3% anual con su margen actual de caja libre (18.8%), valdría $119 (+39%); si además el margen bajara a 15%, $97 (+13%). Hay descuento con supuestos prudentes, pero menor que el margen de seguridad de 25% que pide un inversionista en valor. Depende de algo que las cifras no aseguran: que HOKA y UGG sigan siendo marcas que la gente quiere. Conclusión actualizada el 13 de noviembre: el retorno exigido pasó a ser el costo de capital de su sector.",
+  "que_miraria": [
+   "La señal clave es la venta directa comparable: si sigue cayendo, la marca pierde tracción.",
+   "Crecimiento de HOKA: por debajo de 5%, el temor del mercado se confirma.",
+   "Con 25% de margen sobre el escenario prudente (3% y margen 15%), el precio de entrada sería cerca de $78.",
+   "Posición moderada: el riesgo de marca es difícil de medir."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "Deckers: comunicado del segundo trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000028/deckex991pressrelease-9302.htm"
+  },
+  {
+   "nombre": "FinChannel: recorte de la previsión",
+   "url": "https://finchannel.com/deckers-cuts-sales-outlook-as-hoka-and-ugg-growth-slows/139155/american-business-trends/2026/10/"
+  },
+  {
+   "nombre": "Yahoo Finance: caída tras el trimestre",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/hoka-ugg-parent-deckers-brands-204425757.html"
+  },
+  {
+   "nombre": "Barchart: estimaciones de analistas",
+   "url": "https://www.barchart.com/story/news/32601228/deckers-outdoor-stock-analyst-estimates-ratings"
+  },
+  {
+   "nombre": "Investing.com: BMO mantiene Bajo rendimiento",
+   "url": "https://www.investing.com/news/analyst-ratings/bmo-capital-maintains-deckers-stock-underperform-on-hoka-ugg-concerns-93CH-4971817"
+  }
+ ],
+ "etiqueta": "Descuento moderado, riesgo de marca",
+ "tono": "descuento",
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: HOKA dejó de crecer y UGG volvió a ser una moda pasajera; para mover inventario hubo descuentos y el margen operativo bajó de 24% a menos de 18%. La señal temprana habría sido la caída del margen y de las ventas frente al año anterior.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 78,
+   "texto": "Precio de compra con 25% de margen sobre el escenario prudente (3% de crecimiento y margen de 15%)"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_oper",
+   "op": "<",
+   "valor": 0.18,
+   "texto": "El margen operativo baja de 18%: la marca pierde poder de precio"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "ventas_vs_anual",
+   "op": "<",
+   "valor": -0.02,
+   "texto": "Las ventas de 12 meses caen más de 2% frente al último año fiscal"
+  },
+  {
+   "tipo": "revisar",
+   "metrica": "precio",
+   "op": ">=",
+   "valor": 119,
+   "texto": "El precio alcanza el valor con 3% de crecimiento y margen actual: el descuento se agotó"
+  }
+ ]
+}

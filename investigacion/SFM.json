@@ -1,0 +1,136 @@
+{
+ "fecha": "2026-11-13",
+ "titular": "Sprouts parece barata con las cifras de los últimos años, pero acaba de anunciar que sacrificará margen para recuperar clientes. Con el margen nuevo hay algo de alza, no la suficiente para un margen de seguridad.",
+ "hechos": [
+  {
+   "titulo": "Tercer trimestre de 2026: ventas arriba, clientes abajo",
+   "verificado": true,
+   "texto": "Ventas de $2,300 millones (+5%) gracias a tiendas nuevas, pero ventas comparables de −0.9%. Utilidad por acción de $1.21 frente a $1.22 un año antes. Abrió 15 tiendas (504 en 25 estados), tiene $229 millones en caja y no usa su línea de crédito. Recompró $89 millones.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 28 oct 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1575515/000157551526000059/sfm-20260927xex991.htm"
+   }
+  },
+  {
+   "titulo": "Guía débil: invertirá en precios",
+   "verificado": true,
+   "texto": "Para el cuarto trimestre espera ventas comparables de −2% a −4% y utilidad por acción de $0.47 a $0.51. El CEO dijo que aumentará la inversión en precios para recuperar tráfico de clientes. El año tiene 53 semanas.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 28 oct 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1575515/000157551526000059/sfm-20260927xex991.htm"
+   }
+  },
+  {
+   "titulo": "Caída de 22% en un día y rebajas",
+   "verificado": false,
+   "texto": "Según la prensa, las transacciones cayeron 3.3% en el trimestre y la acción bajó cerca de 22% el día del informe. Bank of America rebajó a Bajo rendimiento con objetivo de $47 y advirtió que la empresa pierde parte de su clientela principal; RBC bajó a Desempeño del sector con $49.",
+   "fuente": {
+    "nombre": "StocksToTrade: la caída de Sprouts",
+    "url": "https://stockstotrade.com/news/sprouts-farmers-market-inc-sfm-news-2026_11_02/"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "Jack Sinclair es CEO. La empresa sigue abriendo tiendas a ritmo récord mientras las tiendas existentes venden menos.",
+  "puntos": [
+   "Dos insiders compraron $0.44 M en el mercado; 14 vendieron $23.8 M en 12 meses.",
+   "El CEO vendió $15.3 M en el año."
+  ]
+ },
+ "consenso": {
+  "texto": "Consenso de Mantener; los objetivos se recortaron fuerte tras el informe.",
+  "filas": [
+   {
+    "fuente": "MarketBeat",
+    "objetivo": 64.77,
+    "detalle": "Promedio, Mantener",
+    "url": "https://marketbeat.com/instant-alerts/filing-36315-shares-of-sprouts-farmers-market-inc-sfm-bought-by-ballast-asset-management-lp-2026-11-10"
+   },
+   {
+    "fuente": "Goldman Sachs",
+    "objetivo": 58,
+    "detalle": "Compra; antes $94",
+    "url": "https://www.defenseworld.net/2026/11/01/the-goldman-sachs-group-has-lowered-expectations-for-sprouts-farmers-market-nasdaqsfm-stock-price.html"
+   },
+   {
+    "fuente": "RBC",
+    "objetivo": 49,
+    "detalle": "Desempeño del sector; antes $111",
+    "url": "https://stockstotrade.com/news/sprouts-farmers-market-inc-sfm-news-2026_11_02/"
+   },
+   {
+    "fuente": "Bank of America",
+    "objetivo": 47,
+    "detalle": "Bajo rendimiento; antes $100",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-warns-sprouts-farmers-market-200700709.html"
+   }
+  ],
+  "cambios": [
+   "Además recortaron Wells Fargo a $60, Barclays a $65 y Deutsche Bank a $59."
+  ]
+ },
+ "por_que_barata": "Los clientes van menos a sus tiendas y la empresa respondió bajando precios, lo que reduce su margen. El DCF automático usa el margen de los últimos años y por eso muestra un descuento que con el margen nuevo desaparece.",
+ "catalizadores": [
+  "Que la inversión en precios recupere el tráfico en uno o dos trimestres.",
+  "Las tiendas nuevas, que según la empresa rinden bien.",
+  "Recompras con un balance sin deuda."
+ ],
+ "riesgos": [
+  "Trampa de valor: el margen puede no volver al nivel anterior.",
+  "Competencia de supermercados grandes en productos naturales y orgánicos.",
+  "Es una empresa mediana: más volatilidad y menos margen de error."
+ ],
+ "conclusion": {
+  "postura": "Algo de alza, sin margen de seguridad; esperar",
+  "texto": "A $51.84, Sprouts cotiza a 10 veces utilidades. Descontada al 8%, el costo de capital de consumo básico más la prima de empresa mediana, el valor base automático es $89, pero usa un margen de caja libre de 4.2% que la empresa acaba de decir que va a reducir. Con margen de 3% y 4% de crecimiento vale $62 (+20%); con 3.5% y 6%, $80; con 2.5% y 3%, $49 (−5%). El descuento depende de que el margen no caiga más, y hoy no hay evidencia de que el tráfico se recupere. Es una empresa mediana, con riesgo mayor. Conclusión actualizada el 13 de noviembre: el retorno exigido pasó a ser el costo de capital de su sector.",
+  "que_miraria": [
+   "Esperaría a ver si las ventas comparables vuelven a positivo en los próximos dos trimestres.",
+   "Si el tráfico se recupera con el margen arriba de 3%, la tesis cambia a favor.",
+   "Con 25% de margen sobre el escenario de margen 3%, el precio de entrada sería cerca de $49."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "Sprouts: comunicado del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1575515/000157551526000059/sfm-20260927xex991.htm"
+  },
+  {
+   "nombre": "StocksToTrade: precios y ventas comparables",
+   "url": "https://stockstotrade.com/news/sprouts-farmers-market-inc-sfm-news-2026_11_02/"
+  },
+  {
+   "nombre": "Yahoo Finance: advertencia de BofA",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-warns-sprouts-farmers-market-200700709.html"
+  },
+  {
+   "nombre": "Defense World: Goldman recorta objetivo",
+   "url": "https://www.defenseworld.net/2026/11/01/the-goldman-sachs-group-has-lowered-expectations-for-sprouts-farmers-market-nasdaqsfm-stock-price.html"
+  }
+ ],
+ "etiqueta": "Sin margen: esperar",
+ "tono": "esperar",
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: bajar precios no recuperó el tráfico, el margen de caja libre siguió cayendo y quedó como una trampa de valor. La señal temprana habría sido un margen de caja libre bajo 2.5%.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 49,
+   "texto": "Precio de compra con 25% de margen sobre el escenario de margen 3%"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_fcf",
+   "op": "<",
+   "valor": 0.025,
+   "texto": "La caja libre baja de 2.5% de las ventas: el margen sigue cayendo"
+  },
+  {
+   "tipo": "manual",
+   "metrica": null,
+   "op": null,
+   "valor": null,
+   "texto": "A favor, revisar a mano: ventas comparables de vuelta en positivo con margen de caja libre sobre 3%"
+  }
+ ]
+}

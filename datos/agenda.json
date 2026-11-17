@@ -1,0 +1,37 @@
+{
+ "eventos": [
+  {
+   "fecha": "2026-11-17",
+   "cuando": "Martes 17 de noviembre",
+   "ticker": "NVDA",
+   "titulo": "NVIDIA publica resultados",
+   "detalle": "Tercer trimestre fiscal 2027, cerca de la 1:20 p.m. del Pacífico. Primera llamada con la CEO interina.",
+   "exacta": true
+  },
+  {
+   "fecha": "2026-12-01",
+   "cuando": "Martes 1 de diciembre",
+   "ticker": "ADBE",
+   "titulo": "Adobe cambia de CEO",
+   "detalle": "Anil Chakravarthy asume como CEO y Shantanu Narayen pasa a presidente ejecutivo del directorio.",
+   "exacta": true
+  },
+  {
+   "fecha": "2026-12-10",
+   "cuando": "Mediados de diciembre",
+   "ticker": "ADBE",
+   "titulo": "Adobe publica resultados",
+   "detalle": "Cuarto trimestre fiscal 2026. Suele reportar a mediados de diciembre; la fecha exacta no está confirmada.",
+   "exacta": false
+  },
+  {
+   "fecha": "2027-01-29",
+   "cuando": "Fines de enero o inicios de febrero",
+   "ticker": "DECK",
+   "titulo": "Deckers publica resultados",
+   "detalle": "Tercer trimestre fiscal, con la temporada de fin de año de UGG. Fecha estimada.",
+   "exacta": false
+  }
+ ],
+ "diaria": "La alerta del S&P 500 revisa el cierre cada día hábil a las 5:10 p.m. de Nueva York."
+}

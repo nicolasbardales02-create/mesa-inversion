@@ -1,0 +1,154 @@
+{
+ "fecha": "2026-11-16",
+ "titular": "LKQ cayó 45% desde su máximo tras perder dinero en Europa, cambiar de CEO y retirar su guía. Es barata por caja (12% al año), pero carga deuda neta de 5.3 veces su utilidad operativa: el valor depende de que el margen se recupere.",
+ "etiqueta": "Barata si Europa se arregla; deuda alta",
+ "tono": "riesgo",
+ "hechos": [
+  {
+   "titulo": "Tercer trimestre de 2026: ventas −5% y pérdida",
+   "verificado": true,
+   "texto": "Ventas de $3,300 millones (−5.1%; orgánicas −5.4%). Pérdida neta de $24 millones por $111 millones de deterioros no monetarios; utilidad ajustada de $127 millones frente a $216 millones un año antes. El directorio reconoce que el desempeño, sobre todo en Europa, no está a la altura.",
+   "fuente": {
+    "nombre": "LKQ: comunicado del tercer trimestre (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000050/exhibit991.htm"
+   }
+  },
+  {
+   "titulo": "Cambio de CEO y consultora de reestructuración",
+   "verificado": false,
+   "texto": "Justin Jude dejó la empresa el 23 de octubre. Sal Abbate, ex CEO de Veritiv, asume el 15 de diciembre. El directorio contrató a Alvarez & Marsal para Europa (servicio al cliente, estabilidad operativa y costos) y retiró la guía 2026.",
+   "fuente": {
+    "nombre": "Repairer Driven News",
+    "url": "https://www.repairerdrivennews.com/2026/10/28/lkq-replaces-ceo-announces-q3-losses/"
+   }
+  },
+  {
+   "titulo": "La causa: un sistema nuevo en Alemania y menos volumen",
+   "verificado": false,
+   "texto": "Los problemas se concentraron en Europa: la implementación de un sistema de gestión (ERP) en Alemania y menores volúmenes en Reino Unido y Benelux.",
+   "fuente": {
+    "nombre": "Distribution Strategy",
+    "url": "https://distributionstrategy.com/2026/10/lkq-replaces-ceo-withdraws-forecast-after-european-sales-slump/"
+   }
+  },
+  {
+   "titulo": "Tres directores compraron acciones",
+   "verificado": true,
+   "texto": "Andrew Clarke ($400 mil), Sue Gove ($201 mil) y Michael Powell ($192 mil) compraron acciones en el mercado con su dinero en los últimos 12 meses; no hubo ventas de directivos.",
+   "fuente": {
+    "nombre": "SEC: formularios 4",
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001065696&type=4"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "La empresa está en transición: el directorio gobierna con una oficina interina hasta que asuma Sal Abbate, un ejecutivo con experiencia en reestructuraciones.",
+  "puntos": [
+   "El presidente del directorio, John Mendel, encabeza la oficina interina junto a Sue Gove.",
+   "Que tres directores compren acciones durante la crisis es una señal de confianza, aunque por montos moderados."
+  ]
+ },
+ "consenso": {
+  "texto": "Los objetivos de los analistas ($25 a $36.50, promedio cerca de $32) son anteriores a la caída de octubre y probablemente bajarán.",
+  "filas": [
+   {
+    "fuente": "Barclays",
+    "objetivo": 25.0,
+    "detalle": "Peso neutral; bajó desde $30 (agosto)",
+    "url": "https://www.marketbeat.com/instant-alerts/barclays-cuts-lkq-nasdaqlkq-price-target-to-2500-2026-08-03/"
+   },
+   {
+    "fuente": "JPMorgan",
+    "objetivo": 30.0,
+    "detalle": "Sobreponderar; bajó desde $37 (julio)",
+    "url": "https://www.marketbeat.com/instant-alerts/jpmorgan-chase-co-lowers-lkq-nasdaqlkq-price-target-to-3000-2026-07-31/"
+   },
+   {
+    "fuente": "MarketBeat",
+    "objetivo": 32.42,
+    "detalle": "Promedio, Compra moderada (agosto)",
+    "url": "https://www.marketbeat.com/instant-alerts/lkq-corporation-nasdaqlkq-given-average-recommendation-of-moderate-buy-by-brokerages-2026-07-30/"
+   }
+  ],
+  "cambios": [
+   "No se encontraron cambios de recomendación posteriores a los resultados de octubre."
+  ]
+ },
+ "por_que_barata": "El mercado castiga tres cosas a la vez: un trimestre con pérdida, la salida del CEO con la guía retirada y la duda de si Europa (un negocio de márgenes bajos) puede volver a ganar lo que ganaba. Es el tipo de rechazo que busca el ick investing: problemas de ejecución con nombre y apellido, en un negocio aburrido de repuestos usados.",
+ "catalizadores": [
+  "El nuevo CEO (desde el 15 de diciembre) y su plan para Europa, probablemente con los resultados anuales.",
+  "Que el sistema de gestión en Alemania se estabilice y vuelva el volumen.",
+  "Uso de la caja libre para bajar deuda o recomprar acciones a precios bajos."
+ ],
+ "riesgos": [
+  "Deuda neta de $3,420 millones, 5.3 veces la utilidad operativa de los últimos 12 meses: deja poco margen si Europa sigue cayendo.",
+  "Margen operativo de 4.8% frente a 10.1% promedio de los cinco años previos: puede que parte de la caída sea estructural (vehículos eléctricos con menos repuestos, más competencia).",
+  "Un CEO nuevo suele limpiar el balance con más deterioros al llegar."
+ ],
+ "conclusion": {
+  "postura": "Barata si el margen se recupera; con deuda alta, posición pequeña",
+  "texto": "A $19.27 (cierre del 16 de noviembre), LKQ vale $4,900 millones en bolsa y genera $576 millones de caja libre al año (12%). Descontada al 10%, el costo de capital industrial más la prima de empresa mediana, el precio implica que su caja caiga 2% al año. Con caja plana y su margen de caja libre normal (5.8%), valdría $23.50 (+22%); si el margen volviera a 7%, como en 2023, $31 (+62%); si quedara en 4.6%, $16 (−18%). El descuento existe y la causa del rechazo es identificable, pero la deuda amplifica cualquier error: es una apuesta a la reestructuración, no una ganga segura.",
+  "que_miraria": [
+   "El plan del nuevo CEO para Europa y la guía 2027, probablemente en febrero.",
+   "Que el margen operativo deje de caer en los próximos dos trimestres.",
+   "Con 25% de margen sobre el escenario de caja plana, el precio de entrada sería cerca de $18.80: está muy cerca.",
+   "Si entras, posición pequeña: la deuda hace que el escenario malo pese más."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "LKQ: comunicado del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000050/exhibit991.htm"
+  },
+  {
+   "nombre": "LKQ: 10-Q del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000056/lkq-20260930.htm"
+  },
+  {
+   "nombre": "Repairer Driven News: cambio de CEO",
+   "url": "https://www.repairerdrivennews.com/2026/10/28/lkq-replaces-ceo-announces-q3-losses/"
+  },
+  {
+   "nombre": "Distribution Strategy: causas en Europa",
+   "url": "https://distributionstrategy.com/2026/10/lkq-replaces-ceo-withdraws-forecast-after-european-sales-slump/"
+  }
+ ],
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: Europa no se recuperó, el margen siguió bajando hacia 4% y, con deuda de más de 5 veces la utilidad operativa, la empresa tuvo que vender activos a mal precio o diluir a los accionistas. La señal temprana habría sido que el margen siguiera cayendo bajo el nuevo CEO.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 18.8,
+   "texto": "Precio de compra con 25% de margen sobre el escenario de caja plana"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_oper",
+   "op": "<",
+   "valor": 0.04,
+   "texto": "El margen operativo baja de 4%: la reestructuración no está funcionando"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "deuda_ebit",
+   "op": ">",
+   "valor": 6.0,
+   "texto": "La deuda neta supera 6 veces la utilidad operativa: riesgo financiero"
+  },
+  {
+   "tipo": "revisar",
+   "metrica": "precio",
+   "op": ">=",
+   "valor": 31,
+   "texto": "El precio alcanza el valor con margen recuperado a 7%: descuenta el éxito de la reestructuración"
+  },
+  {
+   "tipo": "manual",
+   "metrica": null,
+   "op": null,
+   "valor": null,
+   "texto": "Revisar a mano el plan del nuevo CEO (desde el 15 de diciembre) y la guía 2027"
+  }
+ ]
+}

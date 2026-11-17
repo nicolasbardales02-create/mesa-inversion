@@ -1,0 +1,150 @@
+{
+ "fecha": "2026-11-13",
+ "titular": "El mercado descuenta que la caja de Adobe casi deja de crecer, aunque sus ventas suben 13%. Al costo de capital de tecnología (10.9%) el precio es razonable: hay alza si sigue creciendo, pero no margen si se estanca.",
+ "hechos": [
+  {
+   "titulo": "Resultados récord del tercer trimestre fiscal 2026",
+   "verificado": true,
+   "texto": "Ventas de $6,760 millones (+13% anual), ingreso recurrente anualizado de $27,500 millones, flujo de caja operativo de $2,520 millones y recompra de 9.5 millones de acciones en el trimestre. La empresa subió su guía de ventas y utilidad por acción para el año.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 10 sep 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/adbeex991q326.htm"
+   }
+  },
+  {
+   "titulo": "Cambio de CEO el 1 de diciembre",
+   "verificado": true,
+   "texto": "Anil Chakravarthy, hoy presidente del negocio de experiencia de clientes, será CEO desde el 1 de diciembre de 2026. Shantanu Narayen deja la dirección ejecutiva y pasa a presidente ejecutivo del directorio. El CFO actual, Steve Day, es interino.",
+   "fuente": {
+    "nombre": "Formulario 8-K, 8 sep 2026",
+    "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0000796343&type=8-K"
+   }
+  },
+  {
+   "titulo": "Ola de rebajas de analistas por la IA",
+   "verificado": false,
+   "texto": "Según la prensa, Adobe acumula al menos 15 rebajas de recomendación en 2026 y la acción perdió cerca de 30%. HSBC bajó a Mantener con objetivo de $267 tras reportes de alternativas gratuitas a varias de sus aplicaciones. Las nuevas adiciones de ingreso recurrente habrían caído cerca de 36%, aunque los ingresos totales siguen creciendo.",
+   "fuente": {
+    "nombre": "TIKR: rebaja de HSBC",
+    "url": "https://www.tikr.com/blog/hsbc-downgrades-adobe-adbe-stock-ai-disruption-risks"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "Transición ordenada: el nuevo CEO viene de dentro y el anterior se queda en el directorio. El CFO es interino, así que en pocos meses cambian las dos posiciones clave.",
+  "puntos": [
+   "Shantanu Narayen vendió $49.6 M en acciones en los últimos 12 meses, antes de anunciar su retiro.",
+   "David A. Ricks, director (es CEO de Eli Lilly), compró $1.9 M en el mercado: la única compra de un insider en el año."
+  ]
+ },
+ "consenso": {
+  "texto": "Consenso de Mantener. Los objetivos están cerca o por encima del precio, pero con mucha dispersión.",
+  "filas": [
+   {
+    "fuente": "Promedio a mediados de octubre",
+    "objetivo": 272.31,
+    "detalle": "Rango de $195 a $373",
+    "url": "https://www.tipranks.com/news/adobe-stock-adbe-wall-streets-bearish-sentiment-is-only-getting-worse"
+   },
+   {
+    "fuente": "HSBC",
+    "objetivo": 267,
+    "detalle": "Mantener",
+    "url": "https://www.tikr.com/blog/hsbc-downgrades-adobe-adbe-stock-ai-disruption-risks"
+   },
+   {
+    "fuente": "D.A. Davidson",
+    "objetivo": 250,
+    "detalle": "Compra",
+    "url": "https://invezz.com/news/2026/09/11/analyst-adobe-stocks-post-earnings-dip-isnt-about-ai-disruption-fears-only/"
+   },
+   {
+    "fuente": "Wells Fargo",
+    "objetivo": 225,
+    "detalle": "Venta",
+    "url": "https://247wallst.com/investing/2026/10/19/wall-street-has-its-eyes-on-adobe-heres-where-the-stock-could-be-headed/"
+   }
+  ],
+  "cambios": [
+   "No encontré cambios de recomendación de noviembre; los datos más recientes son de mediados de octubre."
+  ]
+ },
+ "por_que_barata": "El mercado teme que herramientas de IA gratuitas o mucho más baratas reduzcan la demanda de Photoshop y del resto de Creative Cloud. La señal que preocupa es la caída de las nuevas suscripciones, no los ingresos actuales, que crecen. A eso se suma el cambio de CEO y de CFO en el mismo periodo.",
+ "catalizadores": [
+  "Resultados del cuarto trimestre fiscal, que Adobe suele publicar a mediados de diciembre: la cifra a mirar es el ingreso recurrente nuevo.",
+  "Primeras decisiones del nuevo CEO desde el 1 de diciembre.",
+  "Ingresos de sus propios productos de IA: la empresa dice que crecieron más de 150% anual.",
+  "Recompras: 9.5 millones de acciones en un trimestre equivalen a cerca de 2% del total."
+ ],
+ "riesgos": [
+  "Que la IA no solo frene el crecimiento sino que reduzca la caja: los negocios desplazados por tecnología no tienen un piso claro de valor.",
+  "Competencia de herramientas gratuitas, incluidas las de grandes empresas de IA.",
+  "Transición simultánea de CEO y CFO.",
+  "El pago en acciones a empleados es alto; el sistema ya lo resta de la caja libre."
+ ],
+ "conclusion": {
+  "postura": "Precio razonable; alza solo si mantiene el crecimiento",
+  "texto": "A $240.97 (13 de noviembre, 11:47 de Nueva York), Adobe cotiza a 13 veces utilidades y rinde 8.9% de caja libre tras restar el pago en acciones. Descontada al 10.9%, el costo de capital del sector tecnología, el precio implica que su caja crezca cerca de 2% al año durante cinco años. Si la caja se quedara plana, valdría $216 (−10%); con 4% anual, $268 (+11%); con 7%, $315 (+31%). El escenario base automático ($330) supone 7.9% anual. Es decir: el precio ya no ofrece margen si el negocio se estanca, y la tesis depende de que la IA no frene sus suscripciones. Conclusión actualizada el 13 de noviembre: el retorno exigido pasó a ser el costo de capital de su sector.",
+  "que_miraria": [
+   "La tesis necesita que el ingreso recurrente siga creciendo; si se estanca, el precio está alto.",
+   "A favor: que el ingreso recurrente nuevo se estabilice en los resultados de diciembre.",
+   "Con 25% de margen sobre el escenario sin crecimiento, el precio de entrada sería cerca de $173.",
+   "Posición moderada: el riesgo tecnológico es difícil de medir."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "Adobe: comunicado del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000147/adbeex991q326.htm"
+  },
+  {
+   "nombre": "TIKR: HSBC rebaja a Adobe",
+   "url": "https://www.tikr.com/blog/hsbc-downgrades-adobe-adbe-stock-ai-disruption-risks"
+  },
+  {
+   "nombre": "TipRanks: sentimiento de analistas",
+   "url": "https://www.tipranks.com/news/adobe-stock-adbe-wall-streets-bearish-sentiment-is-only-getting-worse"
+  },
+  {
+   "nombre": "Invezz: la caída no es solo por la IA",
+   "url": "https://invezz.com/news/2026/09/11/analyst-adobe-stocks-post-earnings-dip-isnt-about-ai-disruption-fears-only/"
+  },
+  {
+   "nombre": "24/7 Wall St.: hacia dónde va Adobe",
+   "url": "https://247wallst.com/investing/2026/10/19/wall-street-has-its-eyes-on-adobe-heres-where-the-stock-could-be-headed/"
+  }
+ ],
+ "etiqueta": "Precio justo, riesgo de IA",
+ "tono": "justo",
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: las herramientas de IA, muchas gratuitas, hicieron que los nuevos clientes dejaran de suscribirse; el ingreso recurrente empezó a caer y, con la caja encogiéndose, el mercado dejó de pagar 13 veces utilidades. La señal temprana habría sido que las ventas de 12 meses dejaran de superar a las del último año fiscal.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 173,
+   "texto": "Precio de compra con 25% de margen sobre el escenario sin crecimiento"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_fcf",
+   "op": "<",
+   "valor": 0.28,
+   "texto": "La caja libre (tras pago en acciones) baja de 28% de las ventas: la IA ya muerde el negocio"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "ventas_vs_anual",
+   "op": "<",
+   "valor": 0.0,
+   "texto": "Las ventas de 12 meses quedan por debajo del último año fiscal: el crecimiento se detuvo"
+  },
+  {
+   "tipo": "revisar",
+   "metrica": "precio",
+   "op": ">=",
+   "valor": 315,
+   "texto": "El precio alcanza el valor con 7% de crecimiento anual: ya no queda alza con supuestos razonables"
+  }
+ ]
+}

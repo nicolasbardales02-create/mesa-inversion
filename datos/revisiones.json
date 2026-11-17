@@ -1,0 +1,233 @@
+{
+ "items": {
+  "CI": {
+   "ticker": "CI",
+   "fecha": "2026-11-16",
+   "motivo": "candidata",
+   "senal": "confirma",
+   "rechazo": null,
+   "resumen": "Los resultados del tercer trimestre superaron lo esperado y Cigna subió su guía de utilidad por acción ajustada a al menos $30.60 para 2026, con metas de 10% a 14% de crecimiento anual hasta 2030. El punto débil es Evernorth (farmacia), cuya utilidad cayó pese a más ventas. Ojo: su margen operativo es de apenas 3%, así que el DCF automático (+232%) exagera; la referencia útil es que cotiza a 13 veces utilidades frente a 27 de sus pares.",
+   "hallazgos": [
+    {
+     "texto": "Superó lo esperado en el 3T 2026 y elevó su guía de utilidad por acción ajustada a al menos $30.60.",
+     "fuente": {
+      "nombre": "Finviz",
+      "url": "https://finviz.com/news/416544/the-cigna-group-reports-strong-third-quarter-2026-results-raises-2026-outlook"
+     }
+    },
+    {
+     "texto": "La utilidad ajustada antes de impuestos de Evernorth bajó pese al aumento de ingresos.",
+     "fuente": {
+      "nombre": "Finviz",
+      "url": "https://finviz.com/news/416656/cigna-shares-rise-as-third-quarter-earnings-beat-estimates-and-2026-profit-outlook-increases"
+     }
+    },
+    {
+     "texto": "Comunicado de resultados del 3T 2026.",
+     "fuente": {
+      "nombre": "SEC 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036126042030/ef20084818_ex99-1.htm"
+     }
+    }
+   ]
+  },
+  "PYPL": {
+   "ticker": "PYPL",
+   "fecha": "2026-11-16",
+   "motivo": "candidata",
+   "senal": "neutral",
+   "rechazo": null,
+   "resumen": "PayPal superó su guía, subió la de utilidad por acción ajustada a cerca de $5.60 y devolvió más de $1,600 millones en recompras y dividendos en el trimestre. Pero el crecimiento de sus ingresos se frena (7%, 5% y 2% en los tres trimestres de 2026), el margen operativo bajó de 18% a 16% y el pago con su propio botón sigue débil. El mercado no duda de su caja sino de su crecimiento: barata con razón conocida.",
+   "hallazgos": [
+    {
+     "texto": "Ingresos +2% y margen operativo de 16% (18% hace un año) en el 3T 2026; volumen de pagos +6%.",
+     "fuente": {
+      "nombre": "SEC 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000088/pypl-20260930.htm"
+     }
+    },
+    {
+     "texto": "Subió su guía de utilidad por acción ajustada 2026 a cerca de $5.60 (antes $5.38).",
+     "fuente": {
+      "nombre": "RTTNews",
+      "url": "https://www.rttnews.com/3703541/paypal-raises-2026-non-gaap-eps-guidance.aspx"
+     }
+    },
+    {
+     "texto": "El crecimiento trimestral de ingresos bajó de 7% a 5% y a 2% en 2026; el pago con marca propia sigue lento.",
+     "fuente": {
+      "nombre": "Stocktwits",
+      "url": "https://stocktwits.com/news-articles/markets/equity/pay-pal-reports-slowest-quarterly-net-revenue-growth-this-year-raises-earnings-guidance/cZUeJ1GRBCg?.tsrc=rss"
+     }
+    }
+   ]
+  },
+  "LULU": {
+   "ticker": "LULU",
+   "fecha": "2026-11-16",
+   "motivo": "candidata",
+   "senal": "alerta",
+   "rechazo": "incierto",
+   "resumen": "Sus ventas comparables cayeron 9% en el segundo trimestre (12% en América) por menos visitas y menor conversión, y la utilidad del trimestre incluye $134.5 millones de devoluciones de aranceles por única vez: el P/U bajo es en parte engañoso. Está renovando su equipo (nuevos jefes de marca y de estrategia tras la salida del CEO). No tiene deuda y recompra acciones, lo que da tiempo, pero el problema de marca en EE.UU. no está resuelto. Reporta el 3T el 3 de diciembre.",
+   "hallazgos": [
+    {
+     "texto": "Ventas comparables −9% (América −12%); utilidad operativa −13% incluyendo $134.5 M de devoluciones de aranceles IEEPA por única vez.",
+     "fuente": {
+      "nombre": "SEC 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1397187/000139718726000127/lulu-20260802.htm"
+     }
+    },
+    {
+     "texto": "Nombró nuevo director de marca (9 nov) y nueva directora de estrategia (23 nov).",
+     "fuente": {
+      "nombre": "Finviz",
+      "url": "https://finviz.com/news/418620/lululemon-appoints-ben-hallam-as-chief-brand-officer-to-strengthen-global-brand-and-guest-experience"
+     }
+    },
+    {
+     "texto": "La acción subió cerca de 20% en el mes al 6 de noviembre, tras caer fuerte en el año.",
+     "fuente": {
+      "nombre": "Trefis",
+      "url": "https://www.trefis.com/stock/lulu/articles/623615/does-lululemon-stocks-run-make-any-sense-now/2026-11-07"
+     }
+    }
+   ]
+  },
+  "GAP": {
+   "ticker": "GAP",
+   "fecha": "2026-11-16",
+   "motivo": "candidata",
+   "senal": "alerta",
+   "rechazo": "incierto",
+   "resumen": "La utilidad del segundo trimestre más que se duplicó, pero incluye unos $417 millones de devoluciones de aranceles por única vez: la utilidad de 12 meses y el P/U de 9 veces están inflados. Las marcas van dispares: Gap +10% en ventas comparables, Old Navy −4% y Athleta −12%. Tiene caja neta. Presenta el 3T el 19 de noviembre: conviene esperar ese dato.",
+   "hallazgos": [
+    {
+     "texto": "Utilidad operativa de $676 M (vs $292 M) con ~$417 M de recuperación de aranceles IEEPA; ventas −2%.",
+     "fuente": {
+      "nombre": "SEC 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026059345/gap-20260801.htm"
+     }
+    },
+    {
+     "texto": "Ventas comparables: Gap +10%, Banana Republic +3%, Old Navy −4%, Athleta −12%.",
+     "fuente": {
+      "nombre": "SEC 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/39911/000162828026059345/gap-20260801.htm"
+     }
+    },
+    {
+     "texto": "Reporta el tercer trimestre el 19 de noviembre de 2026.",
+     "fuente": {
+      "nombre": "Gap Inc.",
+      "url": "https://s204.q4cdn.com/320226404/files/doc_news/Gap-Inc--to-Report-Third-Quarter-Fiscal-2026-Results-on-November-19-2026.pdf"
+     }
+    }
+   ]
+  },
+  "LKQ": {
+   "ticker": "LKQ",
+   "fecha": "2026-11-16",
+   "motivo": "ick",
+   "senal": "confirma",
+   "rechazo": "temporal",
+   "resumen": "El rechazo tiene causa clara y probablemente corregible: problemas de ejecución en Europa (un sistema de gestión nuevo en Alemania y menos volumen en Reino Unido y Benelux) que llevaron a pérdidas, retiro de la guía y salida del CEO. El directorio contrató a Alvarez & Marsal para Europa y nombró CEO desde el 15 de diciembre a un especialista en reestructuraciones, y 3 directivos compraron acciones. Es un caso ick típico; el riesgo es que la caída de Europa sea más que operativa.",
+   "hallazgos": [
+    {
+     "texto": "Ventas del 3T −5.1% y pérdida neta de $24 M con $111 M de deterioros no monetarios; el directorio admite que Europa no está a la altura.",
+     "fuente": {
+      "nombre": "SEC 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000050/exhibit991.htm"
+     }
+    },
+    {
+     "texto": "Salió el CEO; Sal Abbate (ex Veritiv) asume el 15 de diciembre; contrató a Alvarez & Marsal para Europa.",
+     "fuente": {
+      "nombre": "Repairer Driven News",
+      "url": "https://www.repairerdrivennews.com/2026/10/28/lkq-replaces-ceo-announces-q3-losses/"
+     }
+    },
+    {
+     "texto": "La causa principal fue un nuevo sistema de gestión en Alemania y menor volumen en Reino Unido y Benelux; retiró su guía 2026.",
+     "fuente": {
+      "nombre": "Distribution Strategy",
+      "url": "https://distributionstrategy.com/2026/10/lkq-replaces-ceo-withdraws-forecast-after-european-sales-slump/"
+     }
+    }
+   ]
+  },
+  "WU": {
+   "ticker": "WU",
+   "fecha": "2026-11-16",
+   "motivo": "ick",
+   "senal": "alerta",
+   "rechazo": "permanente",
+   "resumen": "Barata por buenas razones: su negocio principal de envíos por agentes físicos se contrae frente a la competencia digital (ventas −2%, minorista de Norteamérica en caída) y lo digital propio todavía no compensa. Además hay riesgo regulatorio: la compra de Intermex enfrenta la suspensión de su aprobación en California y una investigación de lavado de dinero en Australia. Parece un negocio en declive, no un rechazo pasajero.",
+   "hallazgos": [
+    {
+     "texto": "Ingresos del 3T −2%; digital de marca +8%, pero el negocio minorista de Norteamérica se frena; utilidad por acción de $0.25 vs $0.43.",
+     "fuente": {
+      "nombre": "SEC 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1365135/000119312526447234/wu-ex99_1.htm"
+     }
+    },
+    {
+     "texto": "Aprobación de la compra de Intermex suspendida en California e investigación de AUSTRAC sobre lavado de dinero.",
+     "fuente": {
+      "nombre": "Panabee",
+      "url": "https://www.panabee.com/news/western-union-earnings-q3-2026"
+     }
+    }
+   ]
+  },
+  "STRA": {
+   "ticker": "STRA",
+   "fecha": "2026-11-16",
+   "motivo": "ick",
+   "senal": "confirma",
+   "rechazo": "temporal",
+   "resumen": "La pérdida del trimestre es contable: un deterioro no monetario de $134 millones por su universidad en Australia, afectada por restricciones a estudiantes extranjeros. El resto del negocio está estable o crece: la utilidad operativa ajustada se mantuvo (~$50 M), la retención de alumnos mejora, Sophia Learning crece 20% y el negocio con empleadores 12%. Tiene caja neta y 2 directivos compraron. Riesgo: regulación de la educación con fines de lucro y matrícula de EE.UU. levemente a la baja (−1.1%).",
+   "hallazgos": [
+    {
+     "texto": "Pérdida operativa por un deterioro de $134.1 M de Torrens University (Australia); utilidad operativa ajustada $50.2 M vs $51.3 M.",
+     "fuente": {
+      "nombre": "SEC 8-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000022/stra-20261105xexhibit991.htm"
+     }
+    },
+    {
+     "texto": "Matrícula de EE.UU. −1.1% (84,725), retención de alumnos 89.2% (87.8% hace un año).",
+     "fuente": {
+      "nombre": "SEC 10-Q",
+      "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000025/stra-20260930.htm"
+     }
+    }
+   ]
+  },
+  "WB": {
+   "ticker": "WB",
+   "fecha": "2026-11-16",
+   "motivo": "ick",
+   "senal": "neutral",
+   "rechazo": "incierto",
+   "resumen": "Muy barata (3 veces su utilidad operativa y 27% de caja libre), pero por riesgos que el código no mide: es una red social china que cotiza en EE.UU. mediante ADR, con riesgo regulatorio y de convivencia de mercados. Sus usuarios mensuales bajan poco a poco (567 millones en diciembre de 2025 frente a 598 millones en 2023) y sus ventas no crecen. Aún no publica el tercer trimestre de 2026 (suele hacerlo a fines de noviembre).",
+   "hallazgos": [
+    {
+     "texto": "Usuarios mensuales de 598 M (dic-2023) a 590 M (dic-2024) y 567 M (dic-2025); usuarios diarios 252 M.",
+     "fuente": {
+      "nombre": "SEC 20-F",
+      "url": "https://www.sec.gov/Archives/edgar/data/1595761/000110465926047217/wb-20251231x20f.htm"
+     }
+    },
+    {
+     "texto": "En el 3T 2025 sus ingresos bajaron 4.8%.",
+     "fuente": {
+      "nombre": "RTTNews",
+      "url": "https://www.rttnews.com/3596185/weibo-corp-q3-profit-increases-inline-with-estimates.aspx"
+     }
+    }
+   ]
+  }
+ },
+ "historial": [],
+ "generado": "2026-11-16T17:54"
+}

@@ -1,0 +1,135 @@
+{
+ "generado": "2026-11-14T18:59:32+00:00",
+ "tasa_libre": 0.051,
+ "fecha_tasa": "2026-11-12",
+ "prima_mercado": 0.045,
+ "diferencial": 0.015,
+ "impuesto": 0.21,
+ "prima_tamano": {
+  "mediana": 0.01,
+  "pequena": 0.02
+ },
+ "sectores": {
+  "Tecnología": {
+   "etf": "XLK",
+   "beta_hist": 1.412,
+   "beta": 1.276,
+   "semanas": 260,
+   "ke": 0.1084,
+   "peso_deuda": 0.0,
+   "kd": 0.066,
+   "wacc": 0.1084
+  },
+  "Salud": {
+   "etf": "XLV",
+   "beta_hist": 0.533,
+   "beta": 0.687,
+   "semanas": 260,
+   "ke": 0.0819,
+   "peso_deuda": 0.0,
+   "kd": 0.066,
+   "wacc": 0.0819
+  },
+  "Financiero": {
+   "etf": "XLF",
+   "beta_hist": 0.883,
+   "beta": 0.922,
+   "semanas": 260,
+   "ke": 0.0925,
+   "peso_deuda": 0.0,
+   "kd": 0.066,
+   "wacc": 0.0925
+  },
+  "Energía": {
+   "etf": "XLE",
+   "beta_hist": 0.479,
+   "beta": 0.651,
+   "semanas": 260,
+   "ke": 0.0803,
+   "peso_deuda": 0.183,
+   "kd": 0.066,
+   "wacc": 0.0751
+  },
+  "Servicios públicos": {
+   "etf": "XLU",
+   "beta_hist": 0.438,
+   "beta": 0.624,
+   "semanas": 260,
+   "ke": 0.0791,
+   "peso_deuda": 0.256,
+   "kd": 0.066,
+   "wacc": 0.0722
+  },
+  "Consumo básico": {
+   "etf": "XLP",
+   "beta_hist": 0.356,
+   "beta": 0.569,
+   "semanas": 260,
+   "ke": 0.0766,
+   "peso_deuda": 0.152,
+   "kd": 0.066,
+   "wacc": 0.0729
+  },
+  "Consumo discrecional": {
+   "etf": "XLY",
+   "beta_hist": 1.227,
+   "beta": 1.152,
+   "semanas": 260,
+   "ke": 0.1028,
+   "peso_deuda": 0.059,
+   "kd": 0.066,
+   "wacc": 0.0999
+  },
+  "Industrial": {
+   "etf": "XLI",
+   "beta_hist": 0.896,
+   "beta": 0.93,
+   "semanas": 260,
+   "ke": 0.0929,
+   "peso_deuda": 0.08,
+   "kd": 0.066,
+   "wacc": 0.0896
+  },
+  "Materiales": {
+   "etf": "XLB",
+   "beta_hist": 0.847,
+   "beta": 0.898,
+   "semanas": 260,
+   "ke": 0.0914,
+   "peso_deuda": 0.078,
+   "kd": 0.066,
+   "wacc": 0.0883
+  },
+  "Inmobiliario": {
+   "etf": "XLRE",
+   "beta_hist": 0.698,
+   "beta": 0.798,
+   "semanas": 260,
+   "ke": 0.0869,
+   "peso_deuda": 0.243,
+   "kd": 0.066,
+   "wacc": 0.0784
+  },
+  "Comunicación": {
+   "etf": "XLC",
+   "beta_hist": 0.943,
+   "beta": 0.961,
+   "semanas": 260,
+   "ke": 0.0943,
+   "peso_deuda": 0.184,
+   "kd": 0.066,
+   "wacc": 0.0865
+  },
+  "Otros": {
+   "etf": "SPY",
+   "beta_hist": 1.0,
+   "beta": 1.0,
+   "semanas": 0,
+   "ke": 0.096,
+   "peso_deuda": 0.15,
+   "kd": 0.066,
+   "wacc": 0.0894
+  }
+ },
+ "metodo": "Ke = tasa libre + beta ajustada × prima de mercado; WACC pondera Ke y el costo de la deuda después de impuestos con el peso mediano de la deuda del sector."
+}

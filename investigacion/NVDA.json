@@ -1,0 +1,199 @@
+{
+ "fecha": "2026-11-13",
+ "titular": "La acción cayó tras la renuncia de su fundador y una crisis de gobierno, no por un deterioro del negocio que ya se vea en las cifras. Al costo de capital de tecnología (10.9%), el precio todavía exige un crecimiento alto: no hay margen de seguridad.",
+ "hechos": [
+  {
+   "titulo": "Renuncia del fundador y CEO",
+   "verificado": true,
+   "texto": "El 11 de noviembre de 2026 el directorio aceptó la renuncia de Jensen Huang como presidente, CEO y director, con efecto inmediato. Colette Kress (CFO desde 2013) quedó como CEO interina y mantiene el cargo de CFO. Harvey C. Jones (director desde 1993) fue nombrado presidente del directorio, cargo que antes no existía. El directorio busca un CEO permanente entre candidatos internos y externos.",
+   "fuente": {
+    "nombre": "Formulario 8-K de NVIDIA ante la SEC, 12 nov 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+   }
+  },
+  {
+   "titulo": "Investigación interna y control de exportaciones",
+   "verificado": false,
+   "texto": "Según la prensa (CNBC, NPR, NBC, Al Jazeera, citando al New York Times y al Financial Times), el directorio abrió el 8 de noviembre una investigación independiente sobre la relación personal de Huang con una ciudadana china señalada como agente de inteligencia, vinculada a Megaspeed, una empresa de Singapur que las autoridades de EE.UU. investigan desde 2024 por el posible desvío de chips avanzados a China. Un reporte posterior habló de al menos $7.5 mil millones en chips; Reuters no pudo verificar esa cifra. Legisladores de EE.UU. pidieron investigar. El 9 de noviembre se presentó una demanda colectiva de accionistas. Esto no lo pude leer en la fuente original: son resúmenes de búsqueda.",
+   "fuente": {
+    "nombre": "CNBC, 8 nov 2026",
+    "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+   }
+  },
+  {
+   "titulo": "Resultados trimestrales el martes 17 de noviembre",
+   "verificado": true,
+   "texto": "NVIDIA confirmó que publicará los resultados de su tercer trimestre fiscal 2027 el martes 17 de noviembre, cerca de las 1:20 p.m. hora del Pacífico. Según la prensa, la guía de la empresa era de $108 mil millones de ventas en el trimestre (±2%), sin contar ventas de centros de datos a China.",
+   "fuente": {
+    "nombre": "Comunicado oficial adjunto al 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+   }
+  },
+  {
+   "titulo": "Garantía de hasta $105 mil millones ligada a OpenAI",
+   "verificado": true,
+   "texto": "El 17 de agosto de 2026 NVIDIA firmó garantías de valor residual sobre arrendamientos de un campus de centros de datos en Ohio cuyo inquilino es OpenAI. Si OpenAI cae en insolvencia o deja de pagar, NVIDIA cubre la diferencia, con un tope acumulado de $105 mil millones. No aparece como deuda en el balance, así que el DCF de esta ficha no lo descuenta.",
+   "fuente": {
+    "nombre": "Formulario 8-K, 17 ago 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm"
+   }
+  },
+  {
+   "titulo": "Compra de Hugging Face por $11.9 mil millones",
+   "verificado": true,
+   "texto": "Acuerdo firmado el 2 de septiembre de 2026, más un programa de retención de hasta $1.0 mil millones en acciones. Cierre esperado en el primer semestre de 2027, sujeto a aprobaciones regulatorias.",
+   "fuente": {
+    "nombre": "Formulario 8-K, 3 sep 2026",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "La empresa pasó en una semana de ser dirigida por su fundador durante 33 años a tener una CEO interina que además sigue siendo CFO. Kress conoce la empresa a fondo (antes pasó cerca de 25 años en finanzas en Cisco y Microsoft), pero no es la sucesora definitiva y la búsqueda está abierta. El resto del equipo ejecutivo sigue en sus puestos.",
+  "puntos": [
+   "Colette Kress, CEO interina y CFO. Vendió $44.8 M en acciones en los últimos 12 meses.",
+   "Harvey C. Jones, presidente del directorio, director desde 1993, ex CEO de Synopsys. Vendió $44.3 M en diciembre de 2025.",
+   "Mark A. Stevens, director: vendió $1,496 M en acciones en 12 meses, la última venta el 18 de septiembre.",
+   "Ningún insider compró acciones en el mercado en los últimos 12 meses; 11 vendieron por $1,868 M en total. Vender es habitual en empresas que pagan en acciones, pero la ausencia total de compras, incluso tras la caída, es un dato a seguir."
+  ]
+ },
+ "consenso": {
+  "texto": "El consenso sigue siendo de compra, con precios objetivo promedio entre $298 y $340. Casi todos esos objetivos se fijaron antes de la renuncia y se están recortando: tómalos como techo optimista, no como pronóstico.",
+  "filas": [
+   {
+    "fuente": "MarketBeat",
+    "objetivo": 298.18,
+    "detalle": "Compra moderada",
+    "url": "https://www.marketbeat.com/instant-alerts/price-nvidia-nasdaq-nvda-reaches-new-1-year-low-following-analyst-downgrade-2026-11-12/"
+   },
+   {
+    "fuente": "TipRanks",
+    "objetivo": 317.83,
+    "detalle": "35 analistas, al 11 nov",
+    "url": "https://benzinga.com/stock/nvda/ratings"
+   },
+   {
+    "fuente": "ChartMill",
+    "objetivo": 330.77,
+    "detalle": "69 analistas, rango $181.80 a $540.75, al 10 nov",
+    "url": "https://www.chartmill.com/stock/quote/NVDA/analyst-ratings"
+   },
+   {
+    "fuente": "24/7 Wall St.",
+    "objetivo": 325.78,
+    "detalle": "62 analistas",
+    "url": "https://247wallst.com/companies/nvda/price-prediction/"
+   }
+  ],
+  "cambios": [
+   "Baird bajó la recomendación a Neutral y el objetivo de $500 a $200.",
+   "Cantor Fitzgerald recortó el objetivo de $350 a $250 y mantiene Sobreponderar.",
+   "Citigroup recortó de $315 a $285 y mantiene Compra."
+  ]
+ },
+ "dcf_externos": {
+  "texto": "No encontré un DCF firmado por un analista con fecha posterior a la renuncia. Lo que hay público son modelos automáticos y una estimación de Morningstar sin fecha confirmada.",
+  "filas": [
+   {
+    "fuente": "Simply Wall St (modelo automático de flujo de caja)",
+    "valor": "$141 a $305",
+    "detalle": "Distintas corridas en 2026 dieron desde $141 hasta $305 según la fecha y los supuestos. La dispersión muestra lo sensible que es el método.",
+    "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nvda/nvidia/news/is-nvidias-valuation-justified-after-a-59-drop-and-ai-growth"
+   },
+   {
+    "fuente": "Morningstar (valor justo del analista)",
+    "valor": "$310",
+    "detalle": "Subido desde $280 en una nota cuya fecha no pude confirmar; es anterior a la crisis.",
+    "url": "https://www.morningstar.com.au/stocks/morningstar-raises-nvidia-fair-value"
+   }
+  ]
+ },
+ "por_que_barata": "No está barata por sus cifras actuales sino por incertidumbre. El mercado descuenta tres cosas a la vez: que la salida de Huang afecte la ejecución y las relaciones con clientes; que la investigación derive en sanciones o más restricciones de exportación; y, desde antes de la crisis, el temor a que el gasto en centros de datos se frene. La caída del 5 de noviembre (-9.3%) fue de todo el sector de chips; las del 9 al 12 fueron propias de NVIDIA.",
+ "catalizadores": [
+  "17 de noviembre: resultados del trimestre y primera llamada con inversionistas de la nueva gerencia. Es la primera lectura real de si el negocio sigue intacto.",
+  "Nombramiento de un CEO permanente creíble.",
+  "Conclusión de la investigación del directorio sin hallazgos que comprometan a la empresa.",
+  "Compras de acciones por parte de directores o ejecutivos tras la caída (hoy no hay ninguna).",
+  "La nueva plataforma Vera Rubin, que según la empresa sería cerca del 20% de las ventas de centros de datos en el trimestre."
+ ],
+ "riesgos": [
+  "Sanciones o nuevas restricciones de exportación si se confirma el desvío de chips a China; investigación del Congreso; demanda colectiva.",
+  "Margen operativo de 65% contra 39% promedio de los cinco años previos. Si el ciclo de inversión en IA se normaliza, el margen baja y el valor cae con él: con margen de caja de 30% en vez de 41%, el valor base pasa de $167 a $124.",
+  "Concentración: pocos clientes muy grandes, y uno de ellos (OpenAI) respaldado además por la garantía de $105 mil millones.",
+  "Pérdida de talento o de relaciones clave tras la salida del fundador.",
+  "Riesgo de evento a cinco días: una acción que se mueve 9% a 13% diario puede hacerlo otra vez el 17, en cualquier dirección."
+ ],
+ "conclusion": {
+  "postura": "Sin margen de seguridad, con riesgo de evento alto",
+  "texto": "A $160.06 (13 de noviembre, 11:54 de Nueva York) cotiza a 20 veces utilidades, contra una mediana de 57 veces en diez años. Descontada al 10.9%, el costo de capital de tecnología, el precio exige que su caja crezca cerca de 20% al año durante cinco años. Con 14% anual valdría $117 (−27%); con 20%, $159 (precio actual); con 25%, $205 (+28%). Si el margen se normalizara a 30%, con 14% de crecimiento, $86. El escenario pesimista vale $61. Sus ventas se duplicaron cada año en los últimos tres, así que 20% no es imposible, pero el precio ya lo da por hecho en medio de una crisis de liderazgo que no terminó. Conclusión actualizada el 13 de noviembre: el retorno exigido pasó a ser el costo de capital de su sector.",
+  "que_miraria": [
+   "Si quieres entrar, hazlo por partes y después de los resultados del 17 de noviembre.",
+   "Dimensiona la posición para que una caída al escenario pesimista ($61) no te obligue a vender.",
+   "Con 25% de margen sobre el escenario base (14% anual), el precio de entrada sería cerca de $93.",
+   "A mejor: guía confirmada, compras de insiders, CEO permanente. A peor: acciones del gobierno de EE.UU., recorte de guía, renuncias en el equipo."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "SEC EDGAR: presentaciones de NVIDIA",
+   "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001045810&type=8-K"
+  },
+  {
+   "nombre": "CNBC: investigación sobre Huang (8 nov)",
+   "url": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html"
+  },
+  {
+   "nombre": "CNBC: los lazos con China (10 nov)",
+   "url": "https://www.cnbc.com/2026/11/10/jensen-huang-nvidia-china-ties.html"
+  },
+  {
+   "nombre": "CNN: cobertura de la renuncia (11 nov)",
+   "url": "https://www.cnn.com/2026/11/11/business/live-news/nvidia-jensen-huang-investigation-fallout"
+  },
+  {
+   "nombre": "Morningstar: qué mirar en los resultados",
+   "url": "https://www.morningstar.com/stocks/what-watch-nvidia-earnings-spy-scandal-data-center-concerns-take-center-stage"
+  },
+  {
+   "nombre": "The Motley Fool: por qué volvió a caer (10 nov)",
+   "url": "https://www.fool.com/investing/2026/11/10/why-nvidia-stock-just-fell-again/"
+  },
+  {
+   "nombre": "Trefis: qué pasó con la acción (11 nov)",
+   "url": "https://www.trefis.com/stock/nvda/articles/624393/what-just-happened-to-nvidia-stock/2026-11-11"
+  }
+ ],
+ "etiqueta": "Precio justo, riesgo alto",
+ "tono": "riesgo",
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: el ciclo de inversión en centros de datos de IA se frenó, los grandes clientes redujeron pedidos y el margen operativo volvió hacia su promedio previo (39%); a la vez, restricciones de exportación y la crisis de liderazgo restaron confianza. La señal temprana habría sido un margen operativo bajo 50% o un recorte de la guía de ventas.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 93,
+   "texto": "Precio de compra con 25% de margen sobre el escenario de 14% de crecimiento anual"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_oper",
+   "op": "<",
+   "valor": 0.5,
+   "texto": "El margen operativo baja de 50%: el ciclo de IA se normaliza y el valor cae con él"
+  },
+  {
+   "tipo": "revisar",
+   "metrica": "precio",
+   "op": ">=",
+   "valor": 205,
+   "texto": "El precio alcanza el valor con 25% de crecimiento anual: descuenta el mejor caso"
+  },
+  {
+   "tipo": "manual",
+   "metrica": null,
+   "op": null,
+   "valor": null,
+   "texto": "Revisar a mano: sanciones o restricciones de exportación, recorte de guía, salidas en el equipo directivo"
+  }
+ ]
+}

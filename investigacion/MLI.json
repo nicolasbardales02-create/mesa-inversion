@@ -1,0 +1,116 @@
+{
+ "fecha": "2026-11-13",
+ "titular": "Mueller gana más que nunca gracias al cobre caro y a la construcción de centros de datos. A este precio vale lo justo si el cobre se normaliza: el descuento depende del ciclo.",
+ "hechos": [
+  {
+   "titulo": "Tercer trimestre de 2026: noveno trimestre seguido de crecimiento",
+   "verificado": true,
+   "texto": "Ventas de $1,420 millones frente a $1,080 millones, impulsadas por el cobre: el COMEX promedió $6.48 por libra, 34% más que un año antes. Utilidad neta de $221 millones (+6%). Demanda sostenida por centros de datos y construcción comercial, mientras la construcción de viviendas sigue en caída. Caja e inversiones de $1,480 millones; recompró 3.2 millones de acciones por $202 millones.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 20 oct 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000038/exhibit991q32026earningsre.htm"
+   }
+  },
+  {
+   "titulo": "División de acciones 2 por 1",
+   "verificado": true,
+   "texto": "La división tuvo efecto el 30 de junio de 2026. Las cifras por acción del sistema ya están ajustadas.",
+   "fuente": {
+    "nombre": "Comunicado de resultados, 20 oct 2026 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000038/exhibit991q32026earningsre.htm"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "Greg Christopher es presidente del directorio y CEO. La empresa invierte en plantas en Norteamérica y hace adquisiciones pequeñas.",
+  "puntos": [
+   "El CEO vendió $37.6 M en acciones en 12 meses y el CFO $5.8 M; no hubo compras."
+  ]
+ },
+ "consenso": {
+  "texto": "Los pocos analistas que la cubren son optimistas: objetivos entre $76 y $82.",
+  "filas": [
+   {
+    "fuente": "Chartmill",
+    "objetivo": 81.6,
+    "detalle": "6 analistas, Compra",
+    "url": "https://www.chartmill.com/stock/quote/MLI/analyst-ratings"
+   },
+   {
+    "fuente": "Yahoo Finance",
+    "objetivo": 78.0,
+    "detalle": "Objetivo a 1 año",
+    "url": "https://finance.yahoo.com/quote/MLI/"
+   },
+   {
+    "fuente": "MarketBeat",
+    "objetivo": 75.5,
+    "detalle": "3 analistas",
+    "url": "https://www.marketbeat.com/stocks/NYSE/MLI/forecast/"
+   }
+  ],
+  "cambios": [
+   "Freedom Broker bajó su objetivo de $80 a $76."
+  ]
+ },
+ "por_que_barata": "Más que barata, está cotizando como una empresa cíclica: el mercado asume que las ganancias actuales, infladas por el cobre caro, no se van a sostener.",
+ "catalizadores": [
+  "Construcción de centros de datos, que hoy sostiene la demanda.",
+  "Una recuperación de la construcción de viviendas.",
+  "Recompras con caja neta de $1,500 millones."
+ ],
+ "riesgos": [
+  "Si el cobre baja, caen a la vez las ventas y el margen.",
+  "Construcción residencial en caída prolongada.",
+  "Ventas importantes del CEO."
+ ],
+ "conclusion": {
+  "postura": "Precio justo; apuesta al ciclo del cobre",
+  "texto": "A $54.41, Mueller cotiza a 14 veces utilidades con caja neta de $1,500 millones. Descontada al 8.4%, el costo de capital de materiales, el valor base es $65 (+19%) con margen de caja libre de 15%. Si el cobre se normaliza y el margen vuelve a 12% con 2% de crecimiento, vale $53; con 10% y sin crecimiento, $41. Los analistas son más optimistas ($76 a $82). Es una empresa bien manejada y sin deuda, pero su resultado depende del precio del cobre más que de la gerencia. Conclusión actualizada el 13 de noviembre: el retorno exigido pasó a ser el costo de capital de su sector.",
+  "que_miraria": [
+   "Si tu visión es que el cobre se mantiene alto por la demanda eléctrica y de centros de datos, es una forma ordenada de apostar a eso.",
+   "Si no tienes visión sobre el cobre, no ofrece margen de seguridad suficiente.",
+   "Con 25% de margen sobre el escenario prudente, el precio de entrada sería cerca de $42."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "Mueller: comunicado del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000038/exhibit991q32026earningsre.htm"
+  },
+  {
+   "nombre": "Chartmill: recomendaciones",
+   "url": "https://www.chartmill.com/stock/quote/MLI/analyst-ratings"
+  },
+  {
+   "nombre": "MarketBeat: objetivos",
+   "url": "https://www.marketbeat.com/stocks/NYSE/MLI/forecast/"
+  }
+ ],
+ "etiqueta": "Precio justo, cíclica",
+ "tono": "justo",
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: el precio del cobre se normalizó y la construcción siguió débil; ventas y margen cayeron a la vez y la utilidad volvió hacia los niveles previos al alza del cobre. La señal temprana habría sido un margen operativo bajo 15%.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 42,
+   "texto": "Precio de compra con 25% de margen sobre el escenario prudente"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_oper",
+   "op": "<",
+   "valor": 0.15,
+   "texto": "El margen operativo baja de 15%: el cobre se normaliza y el valor cae hacia $41-53"
+  },
+  {
+   "tipo": "revisar",
+   "metrica": "precio",
+   "op": ">=",
+   "valor": 65,
+   "texto": "El precio alcanza el valor base ($65): sin alza con margen de 15%"
+  }
+ ]
+}

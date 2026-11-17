@@ -1,0 +1,134 @@
+{
+ "fecha": "2026-11-16",
+ "titular": "Strategic Education cayó 38% desde su máximo, pero su pérdida del trimestre es contable: un deterioro por su universidad en Australia. El negocio de EE.UU. y el de empleadores siguen sanos, rinde 12% de caja libre y no tiene deuda; el margen de seguridad, sin embargo, es chico.",
+ "etiqueta": "Caja alta, margen de seguridad chico",
+ "tono": "justo",
+ "hechos": [
+  {
+   "titulo": "Tercer trimestre de 2026: pérdida contable, negocio estable",
+   "verificado": true,
+   "texto": "Ingresos de $325.1 millones (+1.6%). Pérdida operativa de $87.6 millones por un deterioro no monetario de $134.1 millones de Torrens University (Australia), por restricciones a estudiantes extranjeros. La utilidad operativa ajustada a moneda constante fue $50.2 millones, frente a $51.3 millones un año antes.",
+   "fuente": {
+    "nombre": "Strategic Education: comunicado del tercer trimestre (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000022/stra-20261105xexhibit991.htm"
+   }
+  },
+  {
+   "titulo": "Lo que crece y lo que no",
+   "verificado": true,
+   "texto": "El negocio con empleadores (ETS) subió 12% en ingresos y 14% en utilidad operativa; Sophia Learning, 22% en suscriptores. La matrícula de EE.UU. bajó 1.1% (84,725 alumnos) con mejor retención (89.2%); la de Australia y Nueva Zelanda cayó 9.1%.",
+   "fuente": {
+    "nombre": "Strategic Education: 10-Q del tercer trimestre (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000025/stra-20260930.htm"
+   }
+  },
+  {
+   "titulo": "Dividendo y recompras",
+   "verificado": false,
+   "texto": "Mantiene un dividendo trimestral de $0.60 por acción (cerca de 4.4% al año al precio actual) y recompra acciones de forma regular.",
+   "fuente": {
+    "nombre": "Barchart: preguntas de analistas del 3T",
+    "url": "https://www.barchart.com/story/news/36099738/the-top-5-analyst-questions-from-strategic-educations-q3-earnings-call"
+   }
+  }
+ ],
+ "gerencia": {
+  "texto": "Karl McDonnell es CEO; Robert Silberman, presidente ejecutivo del directorio. La estrategia es crecer con empleadores que pagan la educación de sus empleados y con alternativas baratas como Sophia, reduciendo la dependencia de préstamos del gobierno.",
+  "puntos": [
+   "En 12 meses tres directivos compraron $270 mil en acciones, pero seis vendieron $5.2 millones: señal mixta.",
+   "El financiamiento federal por crédito estudiado baja 5.5% porque crece la matrícula pagada por empleadores."
+  ]
+ },
+ "consenso": {
+  "texto": "Consenso de Mantener con objetivos entre $90 y $105, todos anteriores a la caída de noviembre.",
+  "filas": [
+   {
+    "fuente": "MarketBeat",
+    "objetivo": 95.33,
+    "detalle": "Promedio de 5 analistas, Mantener",
+    "url": "https://www.marketbeat.com/stocks/NASDAQ/STRA/forecast/"
+   },
+   {
+    "fuente": "Truist",
+    "objetivo": 90.0,
+    "detalle": "Mantener; subió desde $80 (julio)",
+    "url": "https://www.marketbeat.com/instant-alerts/strategic-education-nasdaqstra-given-new-9000-price-target-at-truist-financial-2026-07-30/"
+   }
+  ],
+  "cambios": [
+   "No se encontraron cambios posteriores a los resultados del 5 de noviembre."
+  ]
+ },
+ "por_que_barata": "Educación con fines de lucro es una industria que muchos inversionistas evitan por su riesgo regulatorio, y el titular del trimestre fue una pérdida. Pero la pérdida es un deterioro contable en Australia; el negocio principal genera caja y no tiene deuda.",
+ "catalizadores": [
+  "Crecimiento del negocio con empleadores y de Sophia Learning, que reduce la dependencia de fondos federales.",
+  "Recompras y dividendo con caja neta.",
+  "Que se estabilice la matrícula en Australia."
+ ],
+ "riesgos": [
+  "Regulación de la educación con fines de lucro en EE.UU. (financiamiento federal Title IV).",
+  "Australia: restricciones migratorias que pueden seguir reduciendo matrícula.",
+  "La matrícula de EE.UU. ya no crece (−1.1%)."
+ ],
+ "conclusion": {
+  "postura": "Precio razonable con caja alta; ick sin margen amplio",
+  "texto": "A $54.18 (cierre del 16 de noviembre), Strategic Education vale $1,140 millones en bolsa, no tiene deuda y generó $142 millones de caja libre en 12 meses (12.5%). Descontada al 12%, el costo de capital de consumo discrecional más la prima de empresa pequeña, el precio implica que su caja caiga 2.6% al año. Con caja plana y su margen normal (9.4%) valdría $61 (+13%); con el margen de 2025 (11%), $70 (+30%); si el margen bajara a 7.5%, $50 (−7%). Los analistas apuntan a $90-105, pero con supuestos más generosos. Hay valor y el rechazo parece pasajero, pero el margen de seguridad con supuestos prudentes es menor al 25% que conviene exigir.",
+  "que_miraria": [
+   "Que la utilidad operativa ajustada se mantenga y la matrícula de EE.UU. deje de caer.",
+   "Con 25% de margen sobre el escenario de caja plana, el precio de entrada sería cerca de $49.",
+   "El dividendo de 4.4% paga la espera mientras tanto."
+  ]
+ },
+ "fuentes": [
+  {
+   "nombre": "Strategic Education: comunicado del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000022/stra-20261105xexhibit991.htm"
+  },
+  {
+   "nombre": "Strategic Education: 10-Q del tercer trimestre (SEC)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013934/000101393426000025/stra-20260930.htm"
+  },
+  {
+   "nombre": "MarketBeat: consenso de analistas",
+   "url": "https://www.marketbeat.com/stocks/NASDAQ/STRA/forecast/"
+  }
+ ],
+ "premortem": "Es noviembre de 2028 y la acción cayó 40%. Lo más probable: una nueva regulación del financiamiento federal golpeó a la educación con fines de lucro, la matrícula de EE.UU. siguió bajando y Australia no se recuperó. La señal temprana habría sido una caída de ventas y de margen de caja libre.",
+ "criterios": [
+  {
+   "tipo": "entrada",
+   "metrica": "precio",
+   "op": "<=",
+   "valor": 49,
+   "texto": "Precio de compra con 25% de margen sobre el escenario de caja plana"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "ventas_vs_anual",
+   "op": "<",
+   "valor": -0.03,
+   "texto": "Las ventas de 12 meses caen más de 3% frente al último año fiscal"
+  },
+  {
+   "tipo": "salida",
+   "metrica": "margen_fcf",
+   "op": "<",
+   "valor": 0.07,
+   "texto": "La caja libre baja de 7% de las ventas: se cumple el escenario malo"
+  },
+  {
+   "tipo": "revisar",
+   "metrica": "precio",
+   "op": ">=",
+   "valor": 70,
+   "texto": "El precio alcanza el valor con el margen de 2025: poco alza con supuestos prudentes"
+  },
+  {
+   "tipo": "manual",
+   "metrica": null,
+   "op": null,
+   "valor": null,
+   "texto": "Revisar a mano cambios regulatorios del financiamiento federal (Title IV) y la matrícula de Australia"
+  }
+ ]
+}

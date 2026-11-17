@@ -1,0 +1,269 @@
+{
+ "generado": "2026-11-17T12:42:32+00:00",
+ "vigiladas": [
+  "ADBE",
+  "DECK",
+  "GPOR",
+  "IT",
+  "LKQ",
+  "MLI",
+  "NVDA",
+  "SFM",
+  "STRA",
+  "TMUS"
+ ],
+ "items": [
+  {
+   "fecha": "2026-11-16",
+   "ticker": "NVDA",
+   "tipo": "prensa",
+   "titulo": "NVDA cae cerca de 4% mientras el mercado evalúa el impacto de la renuncia de Jensen Huang",
+   "resumen": "La acción de Nvidia bajó cerca de 4% el lunes mientras los inversionistas descuentan las consecuencias de la renuncia de Jensen Huang como CEO. La directora financiera Colette Kress ocupa el cargo de CEO interina mientras la junta busca un reemplazo permanente.",
+   "impacto": "negativo",
+   "importancia": 3,
+   "verificado": false,
+   "fuente": {
+    "nombre": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/16/nvidia-stock-price-jensen-huang.html"
+   }
+  },
+  {
+   "fecha": "2026-11-16",
+   "ticker": "LKQ",
+   "tipo": "sec",
+   "titulo": "LKQ cambió directores o ejecutivos",
+   "resumen": "Formulario 8-K, ítems 5.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000061/lkq-20261111.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-12",
+   "ticker": "NVDA",
+   "tipo": "sec",
+   "titulo": "NVDA cambió directores o ejecutivos",
+   "resumen": "Formulario 8-K, ítems 5.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-09",
+   "ticker": "MLI",
+   "tipo": "sec",
+   "titulo": "MLI cambió directores o ejecutivos; informó otro hecho relevante",
+   "resumen": "Formulario 8-K, ítems 5.02, 8.01.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000044/mli-20261106.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-05",
+   "ticker": "GPOR",
+   "tipo": "sec",
+   "titulo": "GPOR presentó su informe trimestral (10-Q)",
+   "resumen": "Formulario 10-Q.",
+   "impacto": "neutral",
+   "importancia": 1,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/874499/000087449926000003/gpor-20260930.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-04",
+   "ticker": "GPOR",
+   "tipo": "sec",
+   "titulo": "GPOR publicó resultados; publicó información para el mercado",
+   "resumen": "Formulario 8-K, ítems 2.02, 7.01.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/874499/000121390026115951/ea0310840-8k_gulfport.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-03",
+   "ticker": "IT",
+   "tipo": "sec",
+   "titulo": "IT publicó resultados; publicó información para el mercado",
+   "resumen": "Formulario 8-K, ítems 2.02, 7.01.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/749251/000074925126000305/it-20261103.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-03",
+   "ticker": "IT",
+   "tipo": "sec",
+   "titulo": "IT presentó su informe trimestral (10-Q)",
+   "resumen": "Formulario 10-Q.",
+   "impacto": "neutral",
+   "importancia": 1,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/749251/000074925126000307/it-20260930.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-29",
+   "ticker": "DECK",
+   "tipo": "sec",
+   "titulo": "DECK presentó su informe trimestral (10-Q)",
+   "resumen": "Formulario 10-Q.",
+   "impacto": "neutral",
+   "importancia": 1,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000162828026068116/deck-20260930.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "ticker": "TMUS",
+   "tipo": "sec",
+   "titulo": "TMUS cambió directores o ejecutivos",
+   "resumen": "Formulario 8-K, ítems 5.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312526435233/d130644d8k.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "ticker": "SFM",
+   "tipo": "sec",
+   "titulo": "SFM publicó resultados; publicó información para el mercado",
+   "resumen": "Formulario 8-K, ítems 2.02, 7.01.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1575515/000157551526000059/sfm-20261028.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "ticker": "TMUS",
+   "tipo": "sec",
+   "titulo": "TMUS publicó resultados",
+   "resumen": "Formulario 8-K, ítems 2.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000128/tmus-20261028.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "ticker": "SFM",
+   "tipo": "sec",
+   "titulo": "SFM presentó su informe trimestral (10-Q)",
+   "resumen": "Formulario 10-Q.",
+   "impacto": "neutral",
+   "importancia": 1,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1575515/000157551526000060/sfm-20260927.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "ticker": "TMUS",
+   "tipo": "sec",
+   "titulo": "TMUS presentó su informe trimestral (10-Q)",
+   "resumen": "Formulario 10-Q.",
+   "impacto": "neutral",
+   "importancia": 1,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000129/tmus-20260930.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-22",
+   "ticker": "DECK",
+   "tipo": "sec",
+   "titulo": "DECK publicó resultados; cambió directores o ejecutivos; publicó información para el mercado",
+   "resumen": "Formulario 8-K, ítems 2.02, 5.02, 7.01.",
+   "impacto": "neutral",
+   "importancia": 3,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000028/deck-20261020.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-21",
+   "ticker": "MLI",
+   "tipo": "sec",
+   "titulo": "MLI presentó su informe trimestral (10-Q)",
+   "resumen": "Formulario 10-Q.",
+   "impacto": "neutral",
+   "importancia": 1,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000041/mli-20260926.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-20",
+   "ticker": "MLI",
+   "tipo": "sec",
+   "titulo": "MLI publicó resultados",
+   "resumen": "Formulario 8-K, ítems 2.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/89439/000008943926000038/mli-20261020.htm"
+   }
+  },
+  {
+   "fecha": "2026-10-14",
+   "ticker": "SFM",
+   "tipo": "sec",
+   "titulo": "SFM cambió directores o ejecutivos",
+   "resumen": "Formulario 8-K, ítems 5.02.",
+   "impacto": "neutral",
+   "importancia": 3,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1575515/000157551526000051/sfm-20261012.htm"
+   }
+  }
+ ]
+}
