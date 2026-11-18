@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T12:42:32+00:00",
+ "generado": "2026-11-18T12:43:01+00:00",
  "vigiladas": [
   "ADBE",
   "DECK",
@@ -13,6 +13,48 @@
   "TMUS"
  ],
  "items": [
+  {
+   "fecha": "2026-11-17",
+   "ticker": "NVDA",
+   "tipo": "prensa",
+   "titulo": "NVDA supera estimados: ventas de unos $115.8 mil M (+103%) y guía de $130 mil M",
+   "resumen": "Nvidia reportó ventas del tercer trimestre fiscal de unos $115.8 mil millones, 103% más que hace un año y sobre los ~$109 mil millones esperados, con BPA ajustado de $2.68. Proyectó ventas de $130 mil millones para el próximo trimestre.",
+   "impacto": "positivo",
+   "importancia": 3,
+   "verificado": false,
+   "fuente": {
+    "nombre": "CNBC",
+    "url": "https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html"
+   }
+  },
+  {
+   "fecha": "2026-11-17",
+   "ticker": "NVDA",
+   "tipo": "sec",
+   "titulo": "NVDA publicó resultados",
+   "resumen": "Formulario 8-K, ítems 2.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/nvda-20261117.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-17",
+   "ticker": "NVDA",
+   "tipo": "prensa",
+   "titulo": "NVDA: el presidente de la junta dice que no planean reinstalar a Jensen Huang como CEO",
+   "resumen": "Tras los resultados, el presidente de la junta dijo que no tienen intención de reinstalar a Huang, quien renunció la semana pasada. La CEO interina Colette Kress calificó la situación como normal para el negocio.",
+   "impacto": "negativo",
+   "importancia": 2,
+   "verificado": false,
+   "fuente": {
+    "nombre": "NBC News",
+    "url": "https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804"
+   }
+  },
   {
    "fecha": "2026-11-16",
    "ticker": "NVDA",
