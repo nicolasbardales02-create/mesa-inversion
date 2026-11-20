@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-18T12:43:01+00:00",
+ "generado": "2026-11-20T12:43:14+00:00",
  "vigiladas": [
   "ADBE",
   "DECK",
@@ -13,6 +13,62 @@
   "TMUS"
  ],
  "items": [
+  {
+   "fecha": "2026-11-19",
+   "ticker": "IT",
+   "tipo": "sec",
+   "titulo": "IT cambió directores o ejecutivos",
+   "resumen": "Formulario 8-K, ítems 5.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/749251/000119312526467771/d188671d8k.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-19",
+   "ticker": "LKQ",
+   "tipo": "sec",
+   "titulo": "LKQ cambió directores o ejecutivos",
+   "resumen": "Formulario 8-K, ítems 5.02.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": true,
+   "fuente": {
+    "nombre": "SEC: formulario 8-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000063/lkq-20261118.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-18",
+   "ticker": "NVDA",
+   "tipo": "prensa",
+   "titulo": "NVDA sube tras sus resultados; amplía la recompra en $150 mil M y eleva su guía del año fiscal 2028",
+   "resumen": "La acción subió tras el primer informe sin Jensen Huang como CEO. Nvidia amplió su recompra de acciones en $150 mil millones y la CEO interina Colette Kress dijo que eleva la perspectiva del año fiscal 2028.",
+   "impacto": "positivo",
+   "importancia": 2,
+   "verificado": false,
+   "fuente": {
+    "nombre": "Decrypt",
+    "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit"
+   }
+  },
+  {
+   "fecha": "2026-11-18",
+   "ticker": "NVDA",
+   "tipo": "prensa",
+   "titulo": "NVDA retrocede pese a su guía fuerte; analistas suben estimados de utilidad pero recortan precios objetivo",
+   "resumen": "Las acciones bajaron el 18 de noviembre aunque los analistas elevaron su estimado promedio de utilidad neta ajustada del próximo año fiscal a $393 mil millones desde $380 mil millones; a la vez recortaron precios objetivo por la transición del CEO y los riesgos del gasto en IA.",
+   "impacto": "negativo",
+   "importancia": 2,
+   "verificado": false,
+   "fuente": {
+    "nombre": "Honolulu Star-Advertiser",
+    "url": "https://www.staradvertiser.com/2026/11/18/breaking-news/nvidia-retreats-as-strong-outlook-fails-to-dispel-uncertainty/"
+   }
+  },
   {
    "fecha": "2026-11-17",
    "ticker": "NVDA",
@@ -81,6 +137,20 @@
    "fuente": {
     "nombre": "SEC: formulario 8-K",
     "url": "https://www.sec.gov/Archives/edgar/data/1065696/000106569626000061/lkq-20261111.htm"
+   }
+  },
+  {
+   "fecha": "2026-11-16",
+   "ticker": "LKQ",
+   "tipo": "prensa",
+   "titulo": "LKQ: se retira John Meyne, presidente de Norteamérica; lo reemplaza Paul Shaw desde enero",
+   "resumen": "John Meyne, presidente del segmento de Norteamérica, se retirará el 31 de diciembre de 2026. Paul Shaw, vicepresidente de operaciones del segmento, lo sucederá desde el 1 de enero de 2027.",
+   "impacto": "neutral",
+   "importancia": 2,
+   "verificado": false,
+   "fuente": {
+    "nombre": "Finviz (GlobeNewswire)",
+    "url": "https://finviz.com/news/423072/lkq-corporation-announces-new-leadership-appointment"
    }
   },
   {

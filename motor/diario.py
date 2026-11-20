@@ -30,7 +30,7 @@ def _fecha_ny(ts):
     return dt.datetime.fromtimestamp(ts, NY).date().isoformat()
 
 
-def series(simbolos, lote=20, log=print, max_fallos=6, minutos=20):
+def series(simbolos, lote=20, log=print, max_fallos=12, minutos=90):
     """{símbolo: [(fecha, cierre), ...]} del último mes, solo ruedas cerradas.
     Si Yahoo limita (HTTP 429), espera un minuto y sigue con el mismo lote; se rinde tras varios rechazos
     seguidos o al pasar el tiempo máximo, y devuelve lo que alcanzó."""
